@@ -57,7 +57,9 @@ Mobile
 <img src="prints-site/WhatsApp Image celular 07.jpeg" alt="Print" width="280"/>
 
 
-🌐 <a href="https://alysseclinic.netlify.app/" target="_blank" rel="noopener noreferrer">Ver site ao vivo </a> · 📩 <a href="mailto:fernandaramosvaleriano@gmail.com">Entrar em contato</a>
+🌐 <a href="https://alysseclinic.netlify.app/" target="_blank" rel="noopener noreferrer">Ver site ao vivo</a> 
+· 📩 
+<a href="https://wa.me/5527988796796?text=Olá%20Fernanda!%20Vim%20pelo%20seu%20portfólio%20e%20tenho%20interesse%20nos%20seus%20serviços." target="_blank" rel="noopener noreferrer">Entrar em contato</a>
 
 Sobre o Projeto
 A Alyse Clinic é um projeto fictício criado do zero. 
