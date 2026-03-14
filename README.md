@@ -128,12 +128,11 @@ Gostou do trabalho? Vamos conversar!
  
 <div align="center">
  
-[![GitHub](https://github.com/fernandavaleriano)]
-[![WhatsApp](https://wa.me/5527988796796? text=Olá%20Fernanda!%20Vim%20pelo%20seu%20portfólio%20e%20tenho%20interesse%20nos%20seus%20serviços.)]
-[![Email](mailto:fernandaramosvaleriano@gmail.com)]
- 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fernandavaleriano)
 
----
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5527988796796?text=Olá%20Fernanda!%20Vim%20pelo%20seu%20portfólio%20e%20tenho%20interesse%20nos%20seus%20serviços.)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandaramosvaleriano@gmail.com)
 
 <div align="center">
 
