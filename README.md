@@ -6,7 +6,7 @@ Alyse Clinic · Estética Avançada
 Projeto fictício desenvolvido como amostra de serviço
 
 
-https://alysseclinic.netlify.app/
+https://alyse-clinic-est-tica-avan-ada.vercel.app/
 
 Projeto fictício desenvolvido como amostra de serviço
 
@@ -57,7 +57,7 @@ Mobile
 <img src="prints-site/WhatsApp Image celular 07.jpeg" alt="Print" width="280"/>
 
 
-🌐 <a href="https://alysseclinic.netlify.app/" target="_blank" rel="noopener noreferrer">Ver site ao vivo</a> 
+🌐 <a href="https://alyse-clinic-est-tica-avan-ada.vercel.app/" target="_blank" rel="noopener noreferrer">Ver site ao vivo</a> 
 · 📩 
 <a href="https://wa.me/5527988796796?text=Olá%20Fernanda!%20Vim%20pelo%20seu%20portfólio%20e%20tenho%20interesse%20nos%20seus%20serviços." target="_blank" rel="noopener noreferrer">Entrar em contato</a>
 
