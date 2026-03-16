@@ -117,7 +117,7 @@ Este projeto é uma amostra do que posso criar para o seu negócio. Se você pre
 - 🎨 **Sites institucionais** para clínicas, salões, estúdios e negócios locais
 - 📱 **Design responsivo** — funciona perfeitamente em celular e desktop
 - ✨ **Animações e efeitos** que tornam o site memorável
-- 🚀 **Hospedagem e entrega** rápida via Netlify
+- 🚀 **Hospedagem e entrega** rápida via Vercel
 - 🔗 **Integração com WhatsApp** e redes sociais
  
 ---
