@@ -90,7 +90,7 @@ Tecnologias Utilizadas
 | `JavaScript` | Interações, menu mobile e scroll suave |
 | `ScrollReveal.js` | Animações ao rolar a página |
 | `Google Fonts` | Tipografia (Cormorant Garamond, Montserrat, Raleway) |
-| `Netlify` | Hospedagem e deploy contínuo |
+| `Vercel` | Hospedagem e deploy contínuo |
 
 📂 Estrutura do Projeto
  
