@@ -75,7 +75,7 @@ Este projeto simula o site de uma clínica de estética avançada, e representa 
 ✅ Animações suaves com ScrollReveal
 ✅ Menu hamburger funcional no mobile
 ✅ Seções completas: Hero, Sobre, Vídeo, Procedimentos, Depoimentos, Contato e Footer
-✅ Hospedagem no Netlify
+✅ Hospedagem no Vercel
 
 
 
